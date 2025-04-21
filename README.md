@@ -1,10 +1,10 @@
-# invaR1ant-benchmark
+# WARP-benchmark
 
 A benchmark for testing logical reasoning and pattern generalization in large language models through formal SMT constraints.
 
 ## Overview
 
-InvaR1ant is a benchmark designed to evaluate a language model's ability to generalize invariant logical reasoning across different input sizes. Each example asks a model to generate a formal constraint for a specific target size after being shown examples of constraints for smaller input sizes.
+We propose a benchmark designed to evaluate a language model's ability to generalise worst-case path constraints for all input sizes. Each example asks a model to generate a formal constraint for a specific target size after being shown examples of constraints for smaller input sizes.
 
 ## Dataset Statistics
 
